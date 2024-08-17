@@ -38,13 +38,13 @@
 
 ##  Overview
 
-<code>MojoFit is a mobile game that allows you to practice your pose detection skills using your mobile phone's camera</code>
+<code>MojoFit is a mobile game that allows you to practice your pose detection skills using your mobile phone's came. The game is designed to be fun and engaging, with a variety of challenging levels that will test your skills and keep you motivated. Whether you're a beginner or an experienced pose detector, MojoFit has something for everyone. So why not give it a try and see how far you can go with your pose detection abilities?</code>
 
 ---
 
 ##  Features
 
-<code>► INSERT-TEXT-HERE</code>
+<code>Code is written in Dart and Flutter. The game is built using the Flutter framework and the ML Kit Plugin for Flutter. The game uses the Google Cloud Vision API to detect poses in the user's camera feed. The game also uses the Google Cloud Firestore database to store user data and progress. The game has a user-friendly interface with a simple and intuitive design. The game also includes a tutorial section to help users get started with pose detection. Finally, the game includes a leaderboard section to showcase the top players and their scores. Overall, MojoFit is a fun and engaging mobile game that will help users improve their pose detection skills.</code>
 
 ---
 
@@ -499,9 +499,7 @@
 
 ##  Project Roadmap
 
-- [X] `► INSERT-TASK-1`
-- [ ] `► INSERT-TASK-2`
-- [ ] `► ...`
+Maybe we can add a leaderboard section to the game, where users can see their ranking and compare their scores with other players. This will help users stay motivated and competitive in the game.
 
 ---
 
@@ -550,15 +548,10 @@ Contributions are welcome! Here are several ways you can contribute:
 
 ---
 
-##  License
-
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
-
----
-
 ##  Acknowledgments
 
-- List any resources, contributors, inspiration, etc. here.
+- RingFit adventure game
+- Nikolai Loshinin Designer
 
 [**Return**](#-overview)
 
