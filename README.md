@@ -5,7 +5,7 @@
     <h1 align="center">MOJOFIT</h1>
 </p>
 <p align="center">
-    <em><code>► INSERT-TEXT-HERE</code></em>
+    <em><code>MojoFit is a mobile game that allows you to practice your pose detection skills using your mobile phone's camera</code></em>
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/license/hostuserhost/MojoFit?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
@@ -38,7 +38,7 @@
 
 ##  Overview
 
-<code>► INSERT-TEXT-HERE</code>
+<code>MojoFit is a mobile game that allows you to practice your pose detection skills using your mobile phone's camera</code>
 
 ---
 
